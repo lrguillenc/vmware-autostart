@@ -45,7 +45,7 @@ Abre `config.ps1` y rellena con tus datos:
 $vmrunPath = "C:\Program Files (x86)\VMware\VMware Workstation\vmrun.exe"
 $vmxPath   = "C:\Users\TU_USUARIO\Documents\Virtual Machines\TU_VM\TU_VM.vmx"
 $sshUser   = "tu_usuario"
-$sshHost   = "192.168.X.X"
+$sshHost   = "10.X.X.X"
 $bootWait  = 45
 ```
 
